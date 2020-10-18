@@ -1,4 +1,5 @@
 # Computer Vision in Robotics
+Implementation of HW tasks.
 
 <img src="./.img/logo_for_form.png" height="350" />
 
